@@ -20,7 +20,22 @@ Sprites/
 ProjectSettings/
 Scene/
 .vsconfig
-
+01.Scenes/
+03.Images/
+03.Prefabs/
+04.Prefabs/
+04.Images/
+05.Models/
+06.Sounds/
+07.Animation/
+Images/
+ShaderGraphs/
+Materials/
+Model/
+Textures/
+Resources/
+[Tt]extMesh Pro/
+Temp.txt
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 [Mm]emoryCaptures/
