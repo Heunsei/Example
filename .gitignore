@@ -21,20 +21,27 @@ ProjectSettings/
 Scene/
 .vsconfig
 01.Scenes/
+Scenes/
+Post-Process Profile/
+Gizmos/
 03.Images/
 03.Prefabs/
 04.Prefabs/
 04.Images/
 05.Models/
 06.Sounds/
+Audios/
 07.Animation/
 Images/
 ShaderGraphs/
 Materials/
 Model/
 Textures/
+Fonts/
+Models/
 Resources/
 [Tt]extMesh Pro/
+ScriptableData/
 Temp.txt
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
